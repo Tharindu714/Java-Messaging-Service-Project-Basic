@@ -1,4 +1,4 @@
-# Java Messaging Service (JMS) Example Project
+# Java Messaging Service (JMS) Topic Connection 🗨️
 
 > **Purpose**: Demonstrate a simple JMS Topic-based publish/subscribe application using GlassFish/Payara’s JMS provider. Includes publisher (`JMS-First-Client`), subscriber (`JMS-Second-Client`), server configuration screenshots, and Admin Console startup instructions.
 
